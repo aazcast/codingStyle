@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/3603793/15085619/b7b0423a-13b1-11e6-8e47-e8ed523f6ff6.png" width="200">
+  <img src="https://user-images.githubusercontent.com/9424920/34505866-b06e2c2a-efed-11e7-8c24-51c69ac5b796.png" width="200">
 </p>
 
 # My Coding Style
 
 [![license](https://img.shields.io/github/license/aazcast/coding-style.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/aazcast/coding-style.svg)](https://github.com/aazcast/coding-style/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/aazcast/coding-style.svg)](https://github.com/aazcast/codingStyle/graphs/contributors)
 
 > "Every line of code should appear to be written by a single person, no matter the number of contributors."
 ### 2018 - Fe
@@ -24,7 +24,7 @@ This is a live document and changes can occur at any time.
 1. [HTML](#html)
 1. [Pug](#Pug)
 1. [CSS](#css) 
-1. [POSTCSS](#postcss) 
+1. [PostCss](#postcss) 
 1. [JavaScript](#js)
 1. [Boilerplate](#boilerplate) 
 1. [References](#references) 
@@ -1180,7 +1180,7 @@ var me = $(this); // Bad example of comment
 I have a boilerplate using this coding style. 
 
 <p>
-  <img src="" width="100">
+  <img src="https://user-images.githubusercontent.com/9424920/34505818-56b5c45e-efed-11e7-8ccb-721585d7ff77.png" width="200">
 </p>
 
 I call It [BlueMoon Boilerplate](https://github.com/aazcast/bluemoon-boilerplate).
